@@ -6,7 +6,12 @@
   "private": true,
   "type": "module",
   "linked": {
-    "kind": "app"
+    "kind": "app",
+    "unpublishedPackages": {
+      "test-1-assets": {
+        "repo": "https://github.com/linked-cm-testing/testme-assets-test-1.git"
+      }
+    }
   },
   "author": {
     "name": "",
